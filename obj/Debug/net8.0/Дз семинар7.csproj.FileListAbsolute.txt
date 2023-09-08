@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\Дз семинар7\bin\Debug\net8.0\Дз семинар7.exe
+C:\Users\Павел\Desktop\Дз семинар7\bin\Debug\net8.0\Дз семинар7.deps.json
+C:\Users\Павел\Desktop\Дз семинар7\bin\Debug\net8.0\Дз семинар7.runtimeconfig.json
+C:\Users\Павел\Desktop\Дз семинар7\bin\Debug\net8.0\Дз семинар7.dll
+C:\Users\Павел\Desktop\Дз семинар7\bin\Debug\net8.0\Дз семинар7.pdb
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.dll
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\refint\Дз семинар7.dll
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.pdb
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\Дз семинар7.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Дз семинар7\obj\Debug\net8.0\ref\Дз семинар7.dll
